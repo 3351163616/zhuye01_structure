@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看(自备梯子)🪜",
+    "url": "https://github.com/"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://www.bilibili.com/video/BV1GJ411x7h7?t=0.2"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "建站不管事的🙌🙌",
+    "url": "https://qm.qq.com/q/qdQNoh7ewM"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email🙌🙌",
+    "url": "mailto:3351163616@qq.com"
+  },
+  {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "推特 ~(自备梯子)🪜",
+    "url": "https://x.com/?locale=zh_CN"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~(自备梯子)🪜",
+    "url": "https://web.telegram.org/"
+  }
+]

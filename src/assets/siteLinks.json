@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "Compass",
+    "name": "搜索",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "ChatGPT国内",
+    "link": "https://chat.oaichat.cc/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.kldhsh.top/"
+  },
+  {
+    "icon": "Blog",
+    "name": "星辰云",
+    "link": "https://starxn.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "服务器运行监测",
+    "link": "https://list.kldhsh.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "#"
+  }
+]
